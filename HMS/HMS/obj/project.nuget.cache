@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "awtViFH6sxo2fGGqxiiBOttyetUa4E0pu+KladTpGJq+8+Sv2ztdLplFMCNfisHwLXjHmKgqr4Xtj8tckXW9Eg==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\Bakhtiar Azim Niloy\\Desktop\\Group_20_Hospital Management System\\HMS\\HMS\\HMS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Bakhtiar Azim Niloy\\.nuget\\packages\\selenium.webdriver\\4.6.0\\selenium.webdriver.4.6.0.nupkg.sha512",
+    "C:\\Users\\Bakhtiar Azim Niloy\\.nuget\\packages\\selenium.webdriver.chromedriver\\107.0.5304.6200\\selenium.webdriver.chromedriver.107.0.5304.6200.nupkg.sha512"
+  ],
+  "logs": []
+}
